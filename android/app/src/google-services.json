@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "644857262378",
+    "firebase_url": "https://gare-343d1.firebaseio.com",
+    "project_id": "gare-343d1",
+    "storage_bucket": "gare-343d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644857262378:android:34f2ce1d4508f49d3b2e53",
+        "android_client_info": {
+          "package_name": "com.example.gare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644857262378-jbkf6l64jd4ainupnk3qbogfa5jl0njq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKLQEcd-l3sngOs-41F46VdA-Kve6yZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644857262378-jbkf6l64jd4ainupnk3qbogfa5jl0njq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644857262378:android:2a8149902c7601bf3b2e53",
+        "android_client_info": {
+          "package_name": "com.example.garescanqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644857262378-jbkf6l64jd4ainupnk3qbogfa5jl0njq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKLQEcd-l3sngOs-41F46VdA-Kve6yZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644857262378-jbkf6l64jd4ainupnk3qbogfa5jl0njq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
